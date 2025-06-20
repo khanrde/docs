@@ -11,3 +11,10 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
 
+## Config
+
+```bash
+git config --global user.name "khanrde"
+git config --global user.email "khanrde@gmail.com"
+```
+
